@@ -5,7 +5,7 @@
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Poster",
-    "backgroundImageURL": "ChristmasFolder.png",
+    "backgroundImageURL": "https://github.com/owain14254/Fusion/blob/main/ChristmasFolder.png?raw=true",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
